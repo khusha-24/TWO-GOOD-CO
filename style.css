@@ -597,6 +597,10 @@ footer #email h1{
   width:40% !important;
   /* border: 1px solid red !important; */
 }
+#footer2 #text li{
+    text-align: start !important;
+
+}
  #paragraph{
     display: none !important;
 
